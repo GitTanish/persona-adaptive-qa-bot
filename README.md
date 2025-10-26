@@ -185,20 +185,6 @@ Training time varies by hardware:
 
 ---
 
-## 📝 Citation
-
-```bibtex
-@misc{persona-adaptive-qa-2024,
-  author = {Tanish Saroj},
-  title = {Persona-Adaptive QA Bot: Fine-Tuning LLMs for Audience-Aware Responses},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/GitTanish/persona-adaptive-qa-bot}
-}
-```
-
----
-
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) file for details.
